@@ -1,0 +1,9 @@
+opencv-python
+pyttsx3
+ultralytics
+numpy
+RPi.GPIO
+face_recognition
+gps3
+streamlit
+Pillow
