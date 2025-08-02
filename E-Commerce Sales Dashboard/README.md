@@ -4,7 +4,9 @@ An interactive and insightful dashboard built using Power BI that visualizes key
 
 📌 Features
 📈 Sales Overview: Total revenue, profit, quantity sold, and orders.
+
 🗓️ Monthly/Weekly Trends: View how sales evolve over time.
+
 🌍 Geographic Insights: Sales distribution by country/state.
 🛒 Product Analysis: Best-selling products, categories, and customer behavior.
 👤 Customer Segmentation: New vs returning customers, customer demographics.
