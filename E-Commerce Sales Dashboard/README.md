@@ -1,4 +1,5 @@
 🛍️ E-Commerce Sales Dashboard 
+
 An interactive and insightful dashboard built using Power BI that visualizes key metrics of an e-commerce platform, including revenue, sales trends, customer demographics, top-performing products, and regional performance.
 
 📌 Features
