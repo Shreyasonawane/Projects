@@ -1,0 +1,26 @@
+## Project Requirements
+
+To open and use this Power BI Dashboard, ensure the following:
+
+### Software
+- **Microsoft Power BI Desktop**
+  - Version: August 2023 or later 
+
+### Dataset
+- E-commerce sales data (CSV or Excel format)
+  - Columns required: Order ID, Date, Product, Category, Sales, Profit, Quantity, Customer Segment, Region, etc.
+
+### Optional Tools (if external preprocessing is done)
+- Microsoft Excel (for data cleaning)
+- Python/R (if used for advanced analytics in Power BI)
+
+### Power BI Features Used
+- DAX Measures and Calculated Columns
+- Slicers and Filters (Date, Region, Product Category)
+- Line charts, Bar charts, Pie charts, Maps
+- KPI indicators
+- Drill-through and Tooltips
+
+### Recommended System
+- Windows 10/11
+- 8GB+ RAM (for large datasets)
